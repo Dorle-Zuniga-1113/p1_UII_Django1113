@@ -16,5 +16,7 @@ configuraciones basicas para trabajar con el framework de django
 - 13 ejecutar servidor web --> python manage.py runserver
 - si me trabajo el proyecto
 - python manage.py startapp cosmetics_app
+- >python manage.py makemigrations
+- >python manage.py createsuperuser
 
 
